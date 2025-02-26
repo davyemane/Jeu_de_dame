@@ -83,7 +83,7 @@ gcc -o jeu_de_dames *.c -lSDL2 -lSDL2_ttf -lm
 ## Captures d'écran
 
 ![Menu Principal](https://github.com/votre-username/jeu-de-dames/raw/main/screenshots/menu.png)
-![Partie en cours](https://github.com/votre-username/jeu-de-dames/raw/main/screenshots/gameplay.png)
+![Partie en cours](https://github.com/davyemane/jeu-de-dames/raw/main/screenshots/gameplay.png)
 
 ## Structures de données principales
 
@@ -131,8 +131,8 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](ESIGN) pour plus de détails.
 
 ## Auteur
 
-Votre Nom - [votre-username](https://github.com/votre-username)
+Votre Nom - [votre-username](https://github.com/davyemane)
